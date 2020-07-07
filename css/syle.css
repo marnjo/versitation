@@ -1,0 +1,23 @@
+headings, h3, h2, h1 {
+  color: black;
+  border-bottom: 2px grey solid;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=syle.css.map */
